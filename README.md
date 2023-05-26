@@ -1,8 +1,8 @@
 ### Olá :)
 
-- 💻 Hoje trabalho como aprendiz de Segurança da Informação
-- 👨‍💻 Estudando PHP, Laravel e SQL
-- 😄 Pronouns: ela/dela
+- 💻 Atualemte atuo como aprendiz de Segurança da Informação.
+- 👨‍💻 Estudando PHP, Laravel e SQL.
+- 😄 Pronouns: ela/dela.
 
 
 <div style="display: inline_block"><br>
