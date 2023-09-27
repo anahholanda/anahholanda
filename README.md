@@ -1,6 +1,6 @@
 ### Olá :)
 
-- 💻 Atualemte atuo como aprendiz de Segurança da Informação.
+- 💻 Atualmente atuo como aprendiz de Segurança da Informação.
 - 👨‍💻 Estudando PHP, Laravel e SQL.
 - 😄 Pronouns: ela/dela.
 
