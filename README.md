@@ -1,8 +1,6 @@
 ### Olá :)
 
-- 💻 Atualmente atuo como aprendiz de Segurança da Informação.
-- 👨‍💻 Estudando PHP, Laravel e SQL.
-- 😄 Pronouns: ela/dela.
+
 
 
 <div style="display: inline_block"><br>
@@ -13,7 +11,6 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   
-   ![Snake animation](https://github.com/anahholanda/anahholanda/blob/output/github-contribution-grid-snake.svg)
   
   
 
